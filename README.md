@@ -1,6 +1,6 @@
 <div align="center" style="position: relative; text-align: center;">
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF2bG0yaXZ4cHFnMnhucHowZ2QxYW1hN2twcDZhYjhieTJnc2FiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Banner GIF" style="width: 100%; border-radius: 8px;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTk2MHNoeXIzbzBoeGo4aG1uMGg5aHRzNWdxMnUyMDdmcTF1ZW9wdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Banner GIF" style="width: 100%; border-radius: 8px;" />
 
   <!-- Overlay Message -->
   <div style="margin-top: -150px; font-size: 26px; font-weight: bold; color: white;">
