@@ -1,27 +1,66 @@
-### Hi there 👋
+<div align="center" style="position: relative; text-align: center;">
 
-I am skilled with PHP, Mysql, Laravel, Code-igniter, Vue JS, HTML, CSS, Git, Javascript and React. I have 9+ years of experience, and I am eager to learn even more technologies to sharpen my skillset. In addition to web technologies, I do have a passion for Rest Apis. I've worked on a few mobile side projects.
-In addition to the skills I have acquired, and the extensive computer science education I have possess. I actively seek out new technologies and stay up-to-date on industry trends and advancements.
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF2bG0yaXZ4cHFnMnhucHowZ2QxYW1hN2twcDZhYjhieTJnc2FiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Banner GIF" style="width: 100%; border-radius: 8px;" />
 
-Here are some certificates I have achieved:
-- Laravel on testDemo: https://www.testdome.com/certificates/dc829eb2cb1e47a68bbfb22ce375feb3
-- Html & CSS: https://cutshort.io/certificate/96074
-- Laravel: https://cutshort.io/certificate/96075
-- Jquery: https://cutshort.io/certificate/96165
-- Codeigniter: https://cutshort.io/certificate/96167
+  <!-- Overlay Message -->
+  <div style="margin-top: -150px; font-size: 26px; font-weight: bold; color: white;">
+    Let’s Connect and have a Chat! 💬
+  </div>
+
+  <!-- Social Icons -->
+  <p style="margin-top: 20px;">
+    <a href="https://www.linkedin.com/in/pradeep-darjee" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+    </a>
+    &nbsp;
+    <a href="mailto:pradeep.tailor217@gmail.com" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/simply.paddy" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 👋 Hey, I’m **Pradeep Darjee**
+
+* 💻 **Senior Laravel Developer / Full Stack Developer**  
+* 🔭 I’m currently working on TracxTMS – a logistics and fleet management system
+* 🌱 I’m currently learning AWS solution architech and React
+* ❤️ I love clean code, solving real-world logistics problems, and exploring emerging backend tools
+* ⚡ Fun fact: I once debugged a GPS syncing issue at 3 AM and found the root cause was daylight saving time!
+* 🌏 Open to **remote Laravel or Full Stack roles**  
+
+---
+
+### ⚙️ Tech Stack
+
+- **Backend**: PHP, Laravel, CodeIgniter, RESTful APIs, SOLID Principles, Design Patterns, MySQL
+- **Frontend**: Vue.js, React.js, JavaScript (ES6+), jQuery, HTML5, CSS3 
+- **DevOps**: Docker, GitHub, Bitbucket, Azure DevOps, AWS
+- **Authentication & Security**: OAuth2, SSO, SAML
+- **Project Management & Methodologies**: Agile Practices, Azure Boards, ClickUp  
+- **Additional Tools & Architecture**: WordPress, Multi-Tenant Architecture (Hyn), Postman
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> ☕ I debug code better after coffee.  
+> 🎯 Passionate about building clean and scalable codebases.
 
 
-<!--
-**paddy217/paddy217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
