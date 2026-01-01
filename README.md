@@ -45,6 +45,7 @@
 - **Authentication & Security**: OAuth2, SSO, SAML
 - **Project Management & Methodologies**: Agile Practices, Azure Boards, ClickUp  
 - **Additional Tools & Architecture**: WordPress, Multi-Tenant Architecture (Hyn), Postman
+- **AI Tools**: Claude (Sonet Model), ChatGPT, Github Copilot
 
 ---
 
