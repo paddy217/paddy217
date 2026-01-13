@@ -1,65 +1,98 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW05Z3h0eGVtb3MxbTYzbjFmZW9qM3U3dzM1ejA0ZnVlY2Y3YWI0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pradeep%20Darjee&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Laravel%20%2F%20Full%20Stack%20Developer&descSize=18&descAlignY=52"/>
 
-<h2>Let’s Connect and Have a Chat! 💬</h2>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+Scalable+Systems;%F0%9F%8C%8F+Open+to+Remote+Opportunities;%E2%9C%A8+Clean+Code+Enthusiast" alt="Typing SVG" /></a>
 
+<!-- Social Badges -->
 <p>
   <a href="https://www.linkedin.com/in/pradeep-darjee" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:pradeep.tailor217@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="35"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/simply.paddy" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=paddy217&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
 </p>
 
 </div>
 
 ---
 
-## 👋 Hey, I'm **Pradeep Darjee**
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-🚀 **Senior Laravel / Full Stack Developer**  
-🌏 Open to **Remote Opportunities**
+```javascript
+const pradeep = {
+    location: "🌏 India",
+    currentRole: "Senior Laravel / Full Stack Developer",
+    workingOn: "TracxTMS – Logistics & Fleet Management System",
+    learning: ["AWS Solution Architecture", "React.js", "Node.js"],
+    passions: ["Clean Code", "Scalable Systems", "Real-world Solutions"],
+    funFact: "Debugged a GPS issue at 3 AM — root cause was Daylight Saving Time 😅",
+    motto: "Coffee → Code → Debug → Repeat ☕"
+};
+```
 
-- 💻 Working on **TracxTMS** – Logistics & Fleet Management System  
-- 🌱 Learning **AWS Solution Architecture** & **React.js**  & **Node.js**  
-- ❤️ Clean Code | Scalable Systems | Real-world Logistics Solutions  
-- ⚡ *Debugged a GPS issue at 3 AM — root cause was Daylight Saving Time 😄*
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### 🎯 Quick Highlights
+
+- 🔭 Currently building **TracxTMS** - Enterprise Fleet Management
+- 🌱 Exploring **AWS**, **React.js** & **Node.js**
+- 💡 Love solving complex **logistics challenges**
+- 🎮 Creator of multiplayer games in free time
+- ⚡ Production bugs fear my caffeine levels
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Personal Projects
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://velotyper.paddydev.in/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paddy217&repo=velotyper&theme=tokyonight&border_color=6366f1&border_radius=10" />
+</a>
+<a href="https://mafiagame-kxot.onrender.com/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paddy217&repo=mafia-game&theme=tokyonight&border_color=6366f1&border_radius=10" />
+</a>
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⌨️ **VeloTyper**
-🚴‍♂️ A fast & fun typing speed tester with clean UI  
+### ⌨️ [VeloTyper](https://velotyper.paddydev.in/)
+> 🚴‍♂️ Fast & fun typing speed tester
 
-- ⚡ Real-time typing feedback  
-- 📊 Accuracy & WPM tracking  
-- 🎯 Minimal, distraction-free design  
+| Feature | Description |
+|---------|-------------|
+| ⚡ | Real-time typing feedback |
+| 📊 | Accuracy & WPM tracking |
+| 🎯 | Minimal, distraction-free UI |
 
-🔗 **Live Demo** → [velotyper.paddydev.in](https://velotyper.paddydev.in/)  
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logoColor=white)](https://velotyper.paddydev.in/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🕵️ **Mafia Game (Online)**
-🎮 Multiplayer social deduction game  
+### 🕵️ [Mafia Game](https://mafiagame-kxot.onrender.com/)
+> 🎮 Multiplayer social deduction game
 
-- 🧠 Role-based gameplay  
-- 🌐 Online multiplayer logic  
-- 🎭 Real-time interactions  
+| Feature | Description |
+|---------|-------------|
+| 🧠 | Role-based gameplay |
+| 🌐 | Real-time multiplayer |
+| 🎭 | Interactive voting system |
 
-🔗 **Live Demo** → [mafiagame-kxot.onrender.com](https://mafiagame-kxot.onrender.com/)  
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logoColor=white)](https://mafiagame-kxot.onrender.com/)
 
 </td>
 </tr>
@@ -67,73 +100,123 @@
 
 ---
 
-## ⚙️ Tech Stack & Tools
-
-### 🧠 Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Node](https://img.shields.io/badge/Node-7741C?style=for-the-badge&logo=node)
-
-### 🎨 Frontend
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge)
-
-### 🔐 Auth & Architecture
-- OAuth2 · SSO · SAML  
-- Multi-Tenant Architecture (Hyn)  
-- REST APIs · SOLID · Design Patterns  
-
-### 🤖 AI Tools
-- ChatGPT  
-- Claude (Sonnet)  
-- GitHub Copilot  
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paddy217&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paddy217&theme=tokyonight" height="165"/>
+### 💻 Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🗄️ Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🔐 Specializations
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![SSO](https://img.shields.io/badge/SSO/SAML-FF6F00?style=for-the-badge&logo=okta&logoColor=white)
+![Multi-Tenant](https://img.shields.io/badge/Multi_Tenant-7B1FA2?style=for-the-badge&logo=serverless&logoColor=white)
+
+### 🤖 AI Powered Development
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 More About Me
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=paddy217&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Pradeep's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paddy217&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paddy217&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paddy217&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area_color=6366f1&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paddy217&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</div>
+
+---
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
 
 <details>
-<summary>💡 What I Enjoy Building</summary>
+<summary><h2>💡 More About Me</h2></summary>
 
-- Scalable SaaS applications  
-- Fleet & logistics platforms  
-- API-first backend systems  
-- Clean, maintainable architectures  
+### 🎯 What I Enjoy Building
+- 🏢 Scalable SaaS applications
+- 🚚 Fleet & logistics platforms  
+- 🔌 API-first backend systems
+- 🏗️ Clean, maintainable architectures
 
-</details>
+### 📚 Currently Reading/Learning
+- AWS Solutions Architect certification
+- Advanced React patterns
+- System design principles
 
-<details>
-<summary>☕ Fun Fact</summary>
-
-I debug code **significantly better after coffee** ☕  
-Production bugs fear caffeine.
+### ☕ Fun Facts
+- I debug code **significantly better after coffee** ☕
+- Production bugs fear caffeine
+- My code works on the first try... said no developer ever 😄
 
 </details>
 
 ---
 
-### 🤝 Let’s Build Something Awesome Together
+<div align="center">
 
-📬 Reach out on **LinkedIn** or **Email**  
-🌍 Open to **Laravel / Full Stack / Remote Roles**
+### 🤝 Let's Build Something Awesome Together!
 
-⭐ *If you like my work, don’t forget to star the repos!*
+<a href="https://www.linkedin.com/in/pradeep-darjee">
+  <img src="https://img.shields.io/badge/💼_Hire_Me-0077B5?style=for-the-badge"/>
+</a>
+<a href="mailto:pradeep.tailor217@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+**🌍 Open to Laravel / Full Stack / Remote Roles**
+
+⭐ *If you like my work, consider giving my repos a star!*
+
+<br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
