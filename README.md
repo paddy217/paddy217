@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pradeep%20Darjee&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Laravel%20%2F%20Full%20Stack%20Developer&descSize=18&descAlignY=52"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Pradeep%20Darjee&fontSize=42&fontColor=58a6ff&animation=twinkling&fontAlignY=32&desc=Senior%20Laravel%20%2F%20Full%20Stack%20Developer&descSize=18&descAlignY=52&descColor=8b949e"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+Scalable+Systems;%F0%9F%8C%8F+Open+to+Remote+Opportunities;%E2%9C%A8+Clean+Code+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+Scalable+Systems;%F0%9F%8C%8F+Open+to+Remote+Opportunities;%E2%9C%A8+Clean+Code+Enthusiast" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p>
@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/simply.paddy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=paddy217&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=paddy217&style=for-the-badge&color=161b22&label=Profile+Views&labelColor=0d1117"/>
 </p>
 
 </div>
@@ -54,45 +54,42 @@ const pradeep = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://velotyper.paddydev.in/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paddy217&repo=velotyper&theme=tokyonight&border_color=6366f1&border_radius=10" />
-</a>
-<a href="https://mafiagame-kxot.onrender.com/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paddy217&repo=mafia-game&theme=tokyonight&border_color=6366f1&border_radius=10" />
-</a>
-
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⌨️ [VeloTyper](https://velotyper.paddydev.in/)
-> 🚴‍♂️ Fast & fun typing speed tester
+### ⌨️ VeloTyper
+<a href="https://velotyper.paddydev.in/">
+  <img src="https://img.shields.io/badge/🚴‍♂️_Fast_&_Fun_Typing_Tester-0d1117?style=flat-square" />
+</a>
 
-| Feature | Description |
-|---------|-------------|
-| ⚡ | Real-time typing feedback |
-| 📊 | Accuracy & WPM tracking |
-| 🎯 | Minimal, distraction-free UI |
+```
+⚡ Real-time typing feedback
+📊 Accuracy & WPM tracking  
+🎯 Minimal, distraction-free UI
+🏎️ Challenge your typing speed!
+```
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logoColor=white)](https://velotyper.paddydev.in/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-238636?style=for-the-badge&logoColor=white)](https://velotyper.paddydev.in/)
+[![Private Repo](https://img.shields.io/badge/🔒_Private_Repo-161b22?style=for-the-badge)]()
 
 </td>
 <td width="50%" valign="top">
 
-### 🕵️ [Mafia Game](https://mafiagame-kxot.onrender.com/)
-> 🎮 Multiplayer social deduction game
+### 🕵️ Mafia Game
+<a href="https://mafiagame-kxot.onrender.com/">
+  <img src="https://img.shields.io/badge/🎮_Multiplayer_Social_Deduction-0d1117?style=flat-square" />
+</a>
 
-| Feature | Description |
-|---------|-------------|
-| 🧠 | Role-based gameplay |
-| 🌐 | Real-time multiplayer |
-| 🎭 | Interactive voting system |
+```
+🧠 Role-based gameplay
+🌐 Real-time multiplayer
+🎭 Interactive voting system
+🔥 Outsmart your friends!
+```
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logoColor=white)](https://mafiagame-kxot.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-238636?style=for-the-badge&logoColor=white)](https://mafiagame-kxot.onrender.com/)
+[![Private Repo](https://img.shields.io/badge/🔒_Private_Repo-161b22?style=for-the-badge)]()
 
 </td>
 </tr>
@@ -137,16 +134,16 @@ const pradeep = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=paddy217&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Pradeep's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paddy217&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-git-master-paddy217s-projects.vercel.app/api?username=paddy217&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="Pradeep's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-git-master-paddy217s-projects.vercel.app/api/top-langs/?username=paddy217&layout=compact&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paddy217&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=paddy217&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=6e7681" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paddy217&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area_color=6366f1&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paddy217&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area_color=58a6ff&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -154,15 +151,17 @@ const pradeep = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paddy217&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=paddy217&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div>
+
+> ⚠️ *If trophies don't load, the service may be temporarily down*
 
 ---
 
 ## 💭 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 ---
@@ -195,10 +194,10 @@ const pradeep = {
 ### 🤝 Let's Build Something Awesome Together!
 
 <a href="https://www.linkedin.com/in/pradeep-darjee">
-  <img src="https://img.shields.io/badge/💼_Hire_Me-0077B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💼_Hire_Me-238636?style=for-the-badge"/>
 </a>
 <a href="mailto:pradeep.tailor217@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📧_Email_Me-58a6ff?style=for-the-badge"/>
 </a>
 
 <br/><br/>
@@ -219,4 +218,4 @@ const pradeep = {
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
